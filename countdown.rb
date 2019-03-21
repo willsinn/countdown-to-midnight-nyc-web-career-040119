@@ -3,5 +3,5 @@
 def countdown(int)
   count = int
   while count < 0
-    puts
+    puts "#{count} "
 end
